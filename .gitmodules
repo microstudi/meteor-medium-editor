@@ -1,0 +1,3 @@
+[submodule "lib/medium-editor"]
+	path = lib/medium-editor
+	url = https://github.com/yabwe/medium-editor.git
